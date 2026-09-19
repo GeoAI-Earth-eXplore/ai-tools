@@ -33,6 +33,11 @@ The goal of this repository is to make useful AI tools easier to discover and co
 | [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | Collection of segmentation architectures and pretrained encoders for image segmentation tasks. | Community project | Semantic segmentation | Open source |
 | [Urban Tree Detection](https://github.com/jonathanventura/urban-tree-detection) | Tree detection workflow that can support object detection and annotation in aerial imagery. | Research project | Object detection / trees | Open source |
 | [CanopyRS](https://github.com/hugobaudchon/CanopyRS) | Remote sensing framework and resources for canopy and tree-related deep learning workflows. | Research project | Tree crowns / canopy mapping | Open source |
+| [SAM 1](https://github.com/facebookresearch/segment-anything) | Original Segment Anything Model for promptable image segmentation with strong zero-shot transfer capabilities. | Meta | Image segmentation / promptable vision | Open source |
+| [SAM 2](https://ai.meta.com/research/sam2/) | Unified model for segmenting and tracking objects across images and videos using click, box, or mask prompts. | Meta | Image and video segmentation / tracking | Open model / research |
+| [SAM 3](https://ai.meta.com/research/sam3/) | Unified model for detecting, segmenting, and tracking visual concepts using text, exemplar, and visual prompts. | Meta | Detection / segmentation / tracking | Open model / research |
+| [SAM 3.1](https://ai.meta.com/blog/segment-anything-model-3/) | Updated SAM 3 release with improved inference efficiency, new checkpoints, and faster multi-object video tracking through Object Multiplex. | Meta | Detection / segmentation / multi-object tracking | Open model / research |
+| [SAM 3D](https://ai.meta.com/research/sam3d/) | 3D reconstruction and spatial understanding models for people, objects, and scenes, with potential relevance to future GeoAI and LiDAR workflows. | Meta | 3D reconstruction / spatial vision | Research |
 
 ---
 
