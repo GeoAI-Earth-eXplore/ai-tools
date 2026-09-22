@@ -1,18 +1,22 @@
 # AI Tools
 
-A curated collection of artificial intelligence, machine learning, deep learning, model interpretation, and GPU computing tools relevant to GeoAI, remote sensing, and geospatial applications.
+A curated collection of artificial intelligence, machine learning, deep learning, model interpretation, model deployment, and GPU computing tools relevant to GeoAI, remote sensing, and geospatial applications.
 
-The goal of this repository is to make useful AI tools easier to discover and compare across model development, training, evaluation, interpretation, and deployment workflows.
+The goal of this repository is to make useful AI tools easier to discover and compare across model development, training, evaluation, interpretation, acceleration, and deployment workflows.
 
 ## Categories
 
 - [Deep Learning Frameworks and Libraries](#deep-learning-frameworks-and-libraries)
 - [Segmentation and Computer Vision](#segmentation-and-computer-vision)
 - [Machine Learning](#machine-learning)
+- [Automated Machine Learning](#automated-machine-learning)
+- [Anomaly Detection](#anomaly-detection)
+- [Time Series and Forecasting](#time-series-and-forecasting)
 - [Model Interpretation and Explainability](#model-interpretation-and-explainability)
 - [Image Evaluation and Similarity](#image-evaluation-and-similarity)
+- [AI Platforms and Developer Tools](#ai-platforms-and-developer-tools)
+- [Model Deployment and Inference](#model-deployment-and-inference)
 - [GPU and Accelerated Computing](#gpu-and-accelerated-computing)
-- [Ensemble Learning and Model Combination](#ensemble-learning-and-model-combination)
 
 ---
 
@@ -51,6 +55,31 @@ The goal of this repository is to make useful AI tools easier to discover and co
 
 ---
 
+## Automated Machine Learning
+
+| Resource | Description | Organization | Focus | Access |
+|---|---|---|---|---|
+| [AutoGluon](https://auto.gluon.ai/stable/cheatsheet.html) | Automated machine learning framework for building models across tabular, multimodal, time-series, and other prediction tasks. | AWS / community | AutoML | Open source |
+
+---
+
+## Anomaly Detection
+
+| Resource | Description | Organization | Focus | Access |
+|---|---|---|---|---|
+| [Anomalib](https://anomalib.readthedocs.io/en/latest/markdown/get_started/anomalib.html) | Deep learning library for visual anomaly detection with multiple algorithms, datasets, training workflows, and deployment utilities. | OpenVINO / community | Visual anomaly detection | Open source |
+| [GANomaly](https://github.com/samet-akcay/ganomaly) | GAN-based anomaly detection implementation for identifying abnormal visual samples. | Research project | Anomaly detection / GAN | Open source |
+
+---
+
+## Time Series and Forecasting
+
+| Resource | Description | Organization | Focus | Access |
+|---|---|---|---|---|
+| [NeuralForecast](https://nixtlaverse.nixtla.io/neuralforecast/docs/getting-started/introduction.html) | Neural forecasting library providing deep learning models for time-series prediction and forecasting workflows. | Nixtla | Time series / forecasting | Open source |
+
+---
+
 ## Model Interpretation and Explainability
 
 | Resource | Description | Organization | Focus | Access |
@@ -72,6 +101,23 @@ A useful distinction is that partial dependence primarily describes the shape of
 
 ---
 
+## AI Platforms and Developer Tools
+
+| Resource | Description | Organization | Focus | Access |
+|---|---|---|---|---|
+| [Google AI for Developers](https://ai.google.dev/) | Developer platform providing access to Google AI models, APIs, SDKs, documentation, and development tools. | Google | AI development platform | Platform access |
+| [Nyckel](https://www.nyckel.com/) | Managed machine learning platform for building image, text, and classification workflows through APIs and hosted training tools. | Nyckel | Managed machine learning | Commercial / platform access |
+
+---
+
+## Model Deployment and Inference
+
+| Resource | Description | Organization | Focus | Access |
+|---|---|---|---|---|
+| [ONNX Runtime](https://onnxruntime.ai/) | Cross-platform inference engine for deploying and accelerating machine learning models exported in ONNX format. | Microsoft | Model inference / deployment | Open source |
+
+---
+
 ## GPU and Accelerated Computing
 
 | Resource | Description | Organization | Focus | Access |
@@ -79,12 +125,7 @@ A useful distinction is that partial dependence primarily describes the shape of
 | [RAPIDS](https://rapids.ai/) | GPU-accelerated ecosystem for data science and machine learning using NVIDIA GPUs. | NVIDIA | GPU data science | Open source |
 | [cuDF](https://docs.rapids.ai/api/cudf/stable/) | GPU-accelerated dataframe library designed to provide pandas-like workflows on NVIDIA GPUs. | NVIDIA | GPU dataframes | Open source |
 | [CuPy](https://cupy.dev/) | NumPy-compatible array library accelerated using NVIDIA CUDA GPUs. | Preferred Networks / community | GPU numerical computing | Open source |
+| [cuml.accel](https://docs.rapids.ai/api/cuml/stable/zero-code-change/) | RAPIDS acceleration layer for running supported scikit-learn, UMAP, and HDBSCAN workflows on GPUs with minimal or no code changes. | NVIDIA RAPIDS | GPU machine learning | Open source |
 | [RAPIDS cuDF and CuPy Guide](https://developer.nvidia.com/blog/10-minutes-to-data-science-transitioning-between-rapids-cudf-and-cupy-libraries/) | Practical guide for transitioning between RAPIDS cuDF and CuPy in GPU-accelerated data science workflows. | NVIDIA | GPU computing | Open |
 
 ---
-
-## Ensemble Learning and Model Combination
-
-| Resource | Description | Organization | Focus | Access |
-|---|---|---|---|---|
-| [Stacking to Improve Model Performance](https://medium.com/@brijesh_soni/stacking-to-improve-model-performance-a-comprehensive-guide-on-ensemble-learning-in-python-9ed53c93ce28) | Practical overview of stacking multiple machine learning models to improve predictive performance. | Community tutorial | Ensemble learning | Open article |
