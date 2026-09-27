@@ -42,6 +42,7 @@ The goal of this repository is to make useful AI tools easier to discover and co
 | [SAM 3](https://ai.meta.com/research/sam3/) | Unified model for detecting, segmenting, and tracking visual concepts using text, exemplar, and visual prompts. | Meta | Detection / segmentation / tracking | Open model / research |
 | [SAM 3.1](https://ai.meta.com/blog/segment-anything-model-3/) | Updated SAM 3 release with improved inference efficiency, new checkpoints, and faster multi-object video tracking through Object Multiplex. | Meta | Detection / segmentation / multi-object tracking | Open model / research |
 | [SAM 3D](https://ai.meta.com/research/sam3d/) | 3D reconstruction and spatial understanding models for people, objects, and scenes, with potential relevance to future GeoAI and LiDAR workflows. | Meta | 3D reconstruction / spatial vision | Research |
+| [RF-DETR](https://github.com/roboflow/rf-detr) | Real-time transformer architecture for object detection and instance segmentation using a DINOv2 vision transformer backbone. | Roboflow | Object detection / instance segmentation | Open source / mixed model licensing |
 
 ---
 
@@ -49,6 +50,7 @@ The goal of this repository is to make useful AI tools easier to discover and co
 
 | Resource | Description | Organization | Focus | Access |
 |---|---|---|---|---|
+| [XGBoost](https://xgboost.ai/) | Optimized gradient boosting library widely used for classification, regression, ranking, and tabular machine learning. | XGBoost Project | Gradient boosting | Open source |
 | [LightGBM](https://lightgbm.readthedocs.io/en/stable/) | Gradient boosting framework designed for efficient and scalable machine learning. | Microsoft / community | Gradient boosting | Open source |
 | [scikit-learn](https://scikit-learn.org/) | General-purpose machine learning library providing classification, regression, clustering, preprocessing, and model evaluation tools. | scikit-learn | Machine learning | Open source |
 | [Google Decision Forests](https://developers.google.com/machine-learning/decision-forests) | Documentation and tools for decision tree and forest-based machine learning methods. | Google | Tree-based machine learning | Open documentation / tools |
@@ -127,5 +129,6 @@ A useful distinction is that partial dependence primarily describes the shape of
 | [CuPy](https://cupy.dev/) | NumPy-compatible array library accelerated using NVIDIA CUDA GPUs. | Preferred Networks / community | GPU numerical computing | Open source |
 | [cuml.accel](https://docs.rapids.ai/api/cuml/stable/zero-code-change/) | RAPIDS acceleration layer for running supported scikit-learn, UMAP, and HDBSCAN workflows on GPUs with minimal or no code changes. | NVIDIA RAPIDS | GPU machine learning | Open source |
 | [RAPIDS cuDF and CuPy Guide](https://developer.nvidia.com/blog/10-minutes-to-data-science-transitioning-between-rapids-cudf-and-cupy-libraries/) | Practical guide for transitioning between RAPIDS cuDF and CuPy in GPU-accelerated data science workflows. | NVIDIA | GPU computing | Open |
+| [Higgsfield](https://github.com/higgsfield-ai/higgsfield) | Fault-tolerant GPU orchestration and machine learning framework for distributed training of very large neural networks. | Higgsfield | Distributed training / GPU orchestration | Open source |
 
 ---
