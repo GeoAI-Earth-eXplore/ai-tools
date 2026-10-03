@@ -25,7 +25,7 @@ The goal of this repository is to make useful AI tools easier to discover and co
 | Resource | Description | Organization | Focus | Access |
 |---|---|---|---|---|
 | [PyTorch](https://pytorch.org/) | Open-source deep learning framework widely used for computer vision, remote sensing, and GeoAI model development. | PyTorch Foundation | Deep learning | Open source |
-| [TorchGeo](https://github.com/microsoft/torchgeo) | PyTorch library designed specifically for geospatial machine learning and remote sensing datasets. | Microsoft / community | GeoAI / remote sensing | Open source |
+| [TorchGeo](https://github.com/torchgeo/torchgeo) | PyTorch domain library providing geospatial datasets, samplers, transforms, and pretrained models for machine learning with spatial and remote sensing data. | TorchGeo | GeoAI / remote sensing | Open source |
 | [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | PyTorch library providing semantic segmentation architectures, encoders, losses, and utilities. | Community project | Semantic segmentation | Open source |
 
 ---
