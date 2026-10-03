@@ -43,6 +43,7 @@ The goal of this repository is to make useful AI tools easier to discover and co
 | [SAM 3.1](https://ai.meta.com/blog/segment-anything-model-3/) | Updated SAM 3 release with improved inference efficiency, new checkpoints, and faster multi-object video tracking through Object Multiplex. | Meta | Detection / segmentation / multi-object tracking | Open model / research |
 | [SAM 3D](https://ai.meta.com/research/sam3d/) | 3D reconstruction and spatial understanding models for people, objects, and scenes, with potential relevance to future GeoAI and LiDAR workflows. | Meta | 3D reconstruction / spatial vision | Research |
 | [RF-DETR](https://github.com/roboflow/rf-detr) | Real-time transformer architecture for object detection and instance segmentation using a DINOv2 vision transformer backbone. | Roboflow | Object detection / instance segmentation | Open source / mixed model licensing |
+| [TOFMapper](https://github.com/Moerizzy/TOFMapper) | Semantic segmentation tool for mapping and classifying trees outside forests in high-resolution aerial imagery, including forest, patch, linear, and individual-tree classes. | Moritz Lucas et al. | Tree segmentation / aerial imagery | Open source |
 
 ---
 
