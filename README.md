@@ -110,6 +110,7 @@ A useful distinction is that partial dependence primarily describes the shape of
 |---|---|---|---|---|
 | [Google AI for Developers](https://ai.google.dev/) | Developer platform providing access to Google AI models, APIs, SDKs, documentation, and development tools. | Google | AI development platform | Platform access |
 | [Nyckel](https://www.nyckel.com/) | Managed machine learning platform for building image, text, and classification workflows through APIs and hosted training tools. | Nyckel | Managed machine learning | Commercial / platform access |
+| [Cloudflare AI](https://developers.cloudflare.com/ai/) | AI development platform providing Workers AI, AI Gateway, Vectorize, AI Search, agent infrastructure, and related services for building and deploying AI applications. | Cloudflare | AI development / inference / deployment | Platform access |
 
 ---
 
