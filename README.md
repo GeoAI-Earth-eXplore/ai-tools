@@ -15,6 +15,7 @@ The goal of this repository is to make useful AI tools easier to discover and co
 - [Model Interpretation and Explainability](#model-interpretation-and-explainability)
 - [Image Evaluation and Similarity](#image-evaluation-and-similarity)
 - [AI Platforms and Developer Tools](#ai-platforms-and-developer-tools)
+- [MLOps, CI/CD, and Workflow Automation](#mlops-cicd-and-workflow-automation)
 - [Model Deployment and Inference](#model-deployment-and-inference)
 - [GPU and Accelerated Computing](#gpu-and-accelerated-computing)
 
@@ -111,6 +112,22 @@ A useful distinction is that partial dependence primarily describes the shape of
 | [Google AI for Developers](https://ai.google.dev/) | Developer platform providing access to Google AI models, APIs, SDKs, documentation, and development tools. | Google | AI development platform | Platform access |
 | [Nyckel](https://www.nyckel.com/) | Managed machine learning platform for building image, text, and classification workflows through APIs and hosted training tools. | Nyckel | Managed machine learning | Commercial / platform access |
 | [Cloudflare AI](https://developers.cloudflare.com/ai/) | AI development platform providing Workers AI, AI Gateway, Vectorize, AI Search, agent infrastructure, and related services for building and deploying AI applications. | Cloudflare | AI development / inference / deployment | Platform access |
+
+---
+
+## MLOps, CI/CD, and Workflow Automation
+
+Tools for automating machine-learning development, testing, training, experiment tracking, pipelines, deployment, and reproducible ML workflows.
+
+| Resource | Description | Organization | Focus | Access |
+|---|---|---|---|---|
+| [GitHub Actions](https://github.com/features/actions) | CI/CD and workflow automation platform integrated with GitHub for automated testing, builds, training workflows, and deployment. | GitHub | CI/CD / workflow automation | Free / commercial |
+| [GitLab CI/CD](https://docs.gitlab.com/ci/) | Integrated CI/CD system for automating testing, model training, software builds, and deployment pipelines. | GitLab | CI/CD / workflow automation | Open source / commercial |
+| [Jenkins](https://www.jenkins.io/) | Extensible automation server for building customizable CI/CD, testing, training, and deployment pipelines. | Jenkins Project | CI/CD / automation | Open source |
+| [Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines) | Cloud CI/CD service for automating builds, tests, and deployments across software and machine-learning workflows. | Microsoft | CI/CD / cloud automation | Free tier / commercial |
+| [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning) | Managed cloud platform for machine-learning development, training, experiment management, deployment, and monitoring. | Microsoft | MLOps / model training / deployment | Commercial / cloud access |
+| [MLflow](https://mlflow.org/) | Open-source platform for tracking machine-learning experiments, managing models, packaging workflows, and supporting model lifecycle management. | MLflow Project | Experiment tracking / MLOps | Open source |
+| [Kubeflow Pipelines](https://www.kubeflow.org/docs/components/pipelines/) | Kubernetes-based system for defining, orchestrating, and reproducibly executing machine-learning workflows and pipelines. | Kubeflow | ML pipelines / orchestration | Open source |
 
 ---
 
