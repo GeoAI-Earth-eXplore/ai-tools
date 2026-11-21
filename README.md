@@ -45,6 +45,7 @@ The goal of this repository is to make useful AI tools easier to discover and co
 | [SAM 3D](https://ai.meta.com/research/sam3d/) | 3D reconstruction and spatial understanding models for people, objects, and scenes, with potential relevance to future GeoAI and LiDAR workflows. | Meta | 3D reconstruction / spatial vision | Research |
 | [RF-DETR](https://github.com/roboflow/rf-detr) | Real-time transformer architecture for object detection and instance segmentation using a DINOv2 vision transformer backbone. | Roboflow | Object detection / instance segmentation | Open source / mixed model licensing |
 | [TOFMapper](https://github.com/Moerizzy/TOFMapper) | Semantic segmentation tool for mapping and classifying trees outside forests in high-resolution aerial imagery, including forest, patch, linear, and individual-tree classes. | Moritz Lucas et al. | Tree segmentation / aerial imagery | Open source |
+| [FSVLM](https://github.com/WithoutOcean/FSVLM-A-Vision-Language-Model-for-Remote-Sensing-Farmland-Segmentation) | Vision-language model designed for farmland segmentation in remote sensing imagery. | Research project | Farmland segmentation / vision-language learning | Open source / research |
 
 ---
 
@@ -56,6 +57,7 @@ The goal of this repository is to make useful AI tools easier to discover and co
 | [LightGBM](https://lightgbm.readthedocs.io/en/stable/) | Gradient boosting framework designed for efficient and scalable machine learning. | Microsoft / community | Gradient boosting | Open source |
 | [scikit-learn](https://scikit-learn.org/) | General-purpose machine learning library providing classification, regression, clustering, preprocessing, and model evaluation tools. | scikit-learn | Machine learning | Open source |
 | [Google Decision Forests](https://developers.google.com/machine-learning/decision-forests) | Documentation and tools for decision tree and forest-based machine learning methods. | Google | Tree-based machine learning | Open documentation / tools |
+| [SoilNet](https://github.com/moienr/SoilNet) | Spatiotemporal and self-supervised deep-learning framework for large-scale soil-property and soil organic carbon prediction. | Research project | Digital soil mapping / soil prediction | Open source / research |
 
 ---
 
